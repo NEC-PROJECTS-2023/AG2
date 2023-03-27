@@ -7,7 +7,7 @@ N.Bhuvaneswari (19471A0538)
 
 E. Madhavi (19471A0519)
 # Introduction
-Now a day due to increased competition and improved requirement in employees’
+Now a days due to increased competition and improved requirement in employees’
 proficiency determines the attrition rate. The employee attrition is considered to be a serious
 issue for organizations. The cost of searching and training employees is very high. Organizations
 need to search, hire and train new employees. Loss of experienced workers especially high
