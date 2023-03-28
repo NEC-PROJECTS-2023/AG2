@@ -17,4 +17,6 @@ employee. The problem of employee turnover has turn to eminence in organizations
 its pessimistic impacts on issues on work place self-esteem and efficiency. The organizations
 deal with this problem is by predicting the risk of attrition of employees using machine learning
 techniques thus giving organizations to take proactive action for retention.
+ # dataset
+ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
