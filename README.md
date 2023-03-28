@@ -1,12 +1,12 @@
 # AG2
-# Prediction of Employee Attrition using Machine Learning
-# Team Leader
-M.Adilakshmi (19471A0535)
-# Team members
-N.Bhuvaneswari (19471A0538)
+Prediction of Employee Attrition using Machine Learning
 
-E. Madhavi (19471A0519)
-# Introduction
+### Team Leader
+1. M.Adilakshmi (19471A0535)
+2. N.Bhuvaneswari (19471A0538)
+3. E. Madhavi (19471A0519)
+
+### Introduction
 Now a days due to increased competition and improved requirement in employees’
 proficiency determines the attrition rate. The employee attrition is considered to be a serious
 issue for organizations. The cost of searching and training employees is very high. Organizations
